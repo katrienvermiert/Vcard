@@ -1,0 +1,111 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    background-image: url(../Vcard/images/abstractgrey.png);
+}
+
+ul{
+    list-style-type: none;
+    padding: 5px;
+    background-color: rgb(34, 33, 33);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 1.6em; 
+    width: 600px;
+    text-align: center;
+    border: 2px solid rgb(51, 51, 51);
+    margin-left: -15.2%;
+}
+
+li{
+    display: inline-block;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(172, 187, 37);
+    font-size: 2em;
+}
+
+
+.wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+.social{
+    padding:2px;
+    background-color: rgb(63, 62, 62);
+    border: 2px solid rgb(83, 83, 83);
+    height: 396px;
+    width: 50px;
+    margin-right: 2%;
+    margin-left: -2%;
+    text-align: center;
+    
+}
+
+.linkedin a{
+    color: rgb(122, 184, 224);
+    font-size: 2em;
+}
+
+.facebook a{
+    color: rgb(25, 25, 94);
+    font-size: 2em;
+    padding-top: 15px;
+}
+
+.googleplus a{
+    color:rgb(124, 3, 3);
+    font-size: 2em;
+    padding-top: 15px;
+}
+
+.instagram a{
+    color:rgb(172, 60, 9);
+    font-size: 2em;
+    padding-top: 15px;
+}
+
+.content{
+    background-color: rgb(34, 33, 33);
+    height: 400px;
+    width: 610px;
+    border: 2px solid rgb(51, 51, 51)
+}
+
+img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin-left: 38%;
+    margin-top: 5%;   
+}
+
+.text{
+    text-align: center;
+    color: white;
+}
+
+.contact{
+    padding:2px;
+    background-color: rgb(63, 62, 62);
+    border: 2px solid rgb(83, 83, 83);
+    height: 220px;
+    width: 240px;
+    margin-left: 2%;
+    margin-right: -4%;
+    margin-top: 0.3%;
+    text-align: left;
+    color: white;
+}
+
+
+
+
+    
